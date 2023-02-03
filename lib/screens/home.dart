@@ -38,6 +38,7 @@ class Home extends StatelessWidget {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
+          //This is an alternative
           // var counter = context.read<Counter>();
           // counter.increment();
 
